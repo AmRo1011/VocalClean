@@ -1,7 +1,6 @@
 # VocalClean — بطاقة وصف المهام (Sprints 1–4)
 
 > تقسيم حسب السبرنت والتراك (Backend / Workers / Flutter).
-> استخدم هذه النصوص في **Description** داخل كل كارت Trello.
 
 ---
 
